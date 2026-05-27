@@ -61,4 +61,4 @@ JioSaavn API can be deployed to either Cloudflare Workers or Vercel. Below are t
 
 ## 📜 License
 
-This project is distributed under the [MIT License](https://opensource.org/licenses/MIT). For more information, see the [LICENSE](LICENSE) file included in this repository.
+This project is distributed under the [MIT License](https://opensource.org/licenses/MIT). For more information, see the [LICENSE](LICENSE) file included in this repository..
